@@ -1,1 +1,0 @@
-# DevOps-AWS-Hands-On
